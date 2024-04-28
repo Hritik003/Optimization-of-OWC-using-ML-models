@@ -12,10 +12,10 @@ Using the dataset [Data_simple_OWC.csv](./Data_simple_OWC.csv) that contains the
 
 ## Data Analysis
 1. Plot of $B/h$
-![Alt text](./images/dataset_image_1.png)
+![b/h](./images/dataset_image_1.png)
 2. Plot of $A/h$
-![Alt text](.\images\dataset_image_2.png)
+![a/h](./images/dataset_image_2.png)
 3. Plot of $T_{0}$
-![Alt text](.\images\dataset_image_3.png)
+![t0](./images/dataset_image_3.png)
 4. Plot of power generated
-![Alt text](.\images\dataset_image_4.png)
+![power](./images/dataset_image_4.png)
