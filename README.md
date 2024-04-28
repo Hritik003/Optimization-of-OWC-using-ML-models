@@ -12,7 +12,7 @@ Using the dataset [Data_simple_OWC.csv](./Data_simple_OWC.csv) that contains the
 
 ## Data Analysis
 1. Plot of $B/h$
-![b/h](./images/dataset_image_1.png)
+![b/h](https://github.com/Hritik003/Optimization-of-OWC-using-ML-models/blob/main/images/dataset_image_1.png?raw=true)
 2. Plot of $A/h$
 ![a/h](./images/dataset_image_2.png)
 3. Plot of $T_{0}$
